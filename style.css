@@ -1,0 +1,57 @@
+body{
+    background: #1f2039;
+}
+p{
+    color: white;
+    
+}
+header{
+    background-color: white;
+    height: 100px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+
+}
+button{
+    background-color: rgb(146, 133, 178);
+    border-radius: 20px 20px 20px 20px;
+    height: 30px;
+
+}
+img{
+    float: right;
+    width: 324px;
+    height: 331px;
+}
+.pos_cen{
+    position: absolute;
+    width: 70%;
+    top: 30%;
+    left: 10%;
+    padding: 30px;
+}
+h1{
+  color: rgb(142, 100, 193);
+    
+}
+.navbar{
+    display: flex;
+    justify-content: end;
+    gap: 30px;
+    margin-top: 30px;
+    
+    
+}
+a.logo{
+   
+}
+a{
+    color: black;
+    align-items: center;
+}
+span{
+    color: rgb(146, 133, 178); 
+}
+
